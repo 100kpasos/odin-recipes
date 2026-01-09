@@ -1,6 +1,7 @@
 body {
     background-color: #e3f4ff;
     font-family: Helvetica;
+    font-size: 40px;
 }
 
 a {
@@ -17,11 +18,31 @@ ol {
     text-align: center;
 }
 
-
+.container {
+    padding: 6px;
+}
 .recipe {
     background-color:#1cca6a63;
-    margin: 10px;
-    padding: 20px 10px;
     list-style: none;
+    display: block;
+
 }
 
+.one {
+    margin: 0 auto;
+    padding: 0 auto;
+    border: 0 auto;
+
+}
+
+.two {
+   margin: 0 auto;
+    padding: 0 auto;
+    border: 0 auto;
+}
+
+.three {
+    margin: 0 auto;
+    padding: 0 auto;
+    border: 0 auto;
+}
